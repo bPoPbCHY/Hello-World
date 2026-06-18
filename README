@@ -1,3 +1,7 @@
 Hello World!
 你好 from gumayuchy
+<<<<<<< HEAD
 this is a new change by master
+=======
+这是我的 my-branch 的改动
+>>>>>>> my-branch
