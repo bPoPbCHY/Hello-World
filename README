@@ -12,4 +12,8 @@ sdjasjdaklsjdkl random change
 feature分支的修改：我喜欢吃烤肉
 
 我现在知道用echo 后面如果> 就是替换全部新内容， 如果>> 就是加一行
+<<<<<<< HEAD
 master的改动
+=======
+pracitce-conflict 分支的改动
+>>>>>>> pracitce-conflict
